@@ -1,6 +1,6 @@
 # TensorFlow Advanced: 🚀Leveraging Tensorflow for Deep Learning
 
-Welcome to MLOPs101! This repository provides hands-on examples and tutorials for deploying various machine learning models using popular libraries such as FASTapi, etc.  
+Welcome to TensorFlow Advanced! This repository provides hands-on examples and tutorials for leveraging Tensorflow for Deep Learning
 
 ## Table of Contents
 
