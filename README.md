@@ -11,3 +11,4 @@ Welcome to TensorFlow Advanced! This repository provides hands-on examples and t
 6. [Quadratic Layer Implementation](https://github.com/annaalexandragrigoryan/TensorflowAdvanced/blob/main/QuadraticLayer.ipynb)
 7. [Siamese Networks](https://github.com/annaalexandragrigoryan/TensorflowAdvanced/blob/main/SiameseNetworks.ipynb)
 8. [VGG Networks](https://github.com/annaalexandragrigoryan/TensorflowAdvanced/blob/main/VGGNetwork.ipynb)
+9. [Custom Training with Distributed Strategy Module](https://github.com/annaalexandragrigoryan/TensorflowAdvanced/blob/main/CustomTrainingwDistributedStr.ipynb)
